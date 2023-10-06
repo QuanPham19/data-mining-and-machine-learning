@@ -1,5 +1,5 @@
 # data-mining-and-machine-learning
-Practicing Data Mining &amp; ML topics in Python
+Practicing Data Mining &amp; Machine Learning topics in Python
 
 Current Progress:
 1. Data Mining:
