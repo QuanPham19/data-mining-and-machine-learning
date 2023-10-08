@@ -13,3 +13,6 @@ Current Progress:
 2. Machine Learning:
 - Overview of Supervised Learning
 - Bayesian Decision Theory & Naive Bayesian Classifiers
+- Bayesian Networks
+- Decision Trees
+- Generalization & KNN Classifiers
